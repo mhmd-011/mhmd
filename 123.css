@@ -1,0 +1,11 @@
+table{border-color: blue; border-style: solid; width: 100%;}
+                  h5{border-style:inset; }
+
+             hr{ border-top: 5px solid rgb(160, 206, 94) ;}
+             #para1{
+                background-color: purple;
+            }
+            #para2{color:green;}
+            #para3{background-color:rgb(190, 255, 222);}
+             
+
